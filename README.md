@@ -26,17 +26,12 @@ Este projeto realiza uma análise da série histórica da taxa de câmbio entre 
 
 ## Como Executar/Visualizar
 
-1.  **Clone o repositório (opcional):**
-    ```bash
-    git clone [URL_DO_SEU_REPOSITORIO_NO_GITHUB]
-    cd [NOME_DO_SEU_REPOSITORIO]
-    ```
-2.  **Instale as dependências:**
+1.  **Instale as dependências:**
     Certifique-se de ter Python instalado. Você pode instalar as bibliotecas necessárias usando pip:
     ```bash
     pip install pandas matplotlib seaborn jupyter
     ```
-3.  **Abra o Notebook/Execute o Script:**
+2.  **Abra o Notebook/Execute o Script:**
     * Se for um Jupyter Notebook (`.ipynb`):
         ```bash
         jupyter notebook data_analise_pythoncode.ipynb
