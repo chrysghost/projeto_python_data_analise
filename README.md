@@ -36,11 +36,6 @@ Este projeto realiza uma análise da série histórica da taxa de câmbio entre 
         ```bash
         jupyter notebook data_analise_pythoncode.ipynb
         ```
-        Ou abra através do JupyterLab.
-    * Se for um script Python (`.py`):
-        ```bash
-        python data_analise_pythoncode.py
-        ```
     Os gráficos serão exibidos e salvos na pasta do projeto.
 
 ## Gráficos Gerados
